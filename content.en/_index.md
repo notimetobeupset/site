@@ -34,6 +34,6 @@ We conduct joint training twice a week, with each session lasting about an hour.
 
 # How to Start
 
-Fill out the form [[http://localhost]] for coordination, we use Google Calendar and a Telegram channel.
+Fill out the <a href="https://forms.gle/zhw3PTBiAPoiHYKv8" target="_blank">the form</a>. For coordination, we use Google Calendar and a Telegram channel.
 
 # This is free, the group is supported by the enthusiasm of its members!

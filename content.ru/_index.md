@@ -33,6 +33,6 @@ menu = "main"
 
 # Как начать заниматься
 
-Заполните анкету [[http://localhost]] для координации мы используем google calendar и telegram канал
+Заполните <a href="https://forms.gle/zhw3PTBiAPoiHYKv8" target="_blank">анкету</a>. Для координации мы используем google calendar и telegram канал
 
 # Это бесплатно, группа держится на энтузиазме участников!
