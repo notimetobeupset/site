@@ -14,26 +14,26 @@ categories = [
 menu = "main"
 +++
 
+# Welcome! 🎉
 
-# Welcome!
+Welcome aboard, algorithm researcher and systems design enthusiast! We have created this corner of the virtual world to dive together into the depths of technical knowledge in the IT industry. Our goal is to master and acquire fundamental knowledge, which will allow us to remain leaders in our field and be prepared for the most challenging interviews in large IT companies or technological startups.
 
-Welcome aboard, explorer of algorithms and system design! We've created this corner of the virtual world to delve into the depths of technical knowledge in the IT industry together. We are here to master the skills and fundamental knowledge that will always allow us to stay leaders in our field and be ready for the most challenging interviews in major IT companies or tech startups.
+# Motivation 💪
 
-# Motivation
+At present, large IT companies have set high standards for candidate assessment. But even an advanced specialist is unlikely to pass an interview without preparation. For instance, an algorithmic interview requires a large volume of theoretical knowledge and, importantly, a lot of practice solving problems. Systems design also requires extensive and up-to-date knowledge, but a specialist often works in a narrow area and does not touch on all possible architectural issues.
 
-Currently, high standards of candidate assessment have been established in large IT companies. But even an advanced specialist is unlikely to pass an interview without preparation. For instance, an algorithmic interview requires a large amount of theoretical knowledge and most importantly a large volume of problem-solving practice. System design also requires extensive and current knowledge, and a specialist usually works in a narrow area and does not touch upon all possible architectural issues.
+An interview is not just a knowledge check, but also a test of attention, the ability to clarify requirements and ask the right questions. Communication skills are also important: an interview requires commenting on your train of thought and arguing decisions. In addition, the interviewer assesses you as a future colleague, how comfortable and interesting it will be for them to work with you.
+Therefore, accumulating knowledge is not the only goal of our community members. It is also important to develop meta-skills: learnability, creativity, critical thinking, constructive dialogue, resilience in overcoming problems in conditions of limited time.
 
-The interview is not just a knowledge check, but also a test of attention, the ability to clarify requirements, and ask the right questions. Communication skills are important; during the interview, you need to comment on your thought process and justify your decisions. In addition, the interviewer assesses you as a future colleague, evaluating how comfortable and interesting it will be to work with you.  
-Therefore, accumulating knowledge is not the only goal for members of our community. The development of meta-skills is also of great importance: learning ability, creativity, critical thinking, constructive dialogue, and resilience in overcoming problems under time constraints.
+Within the community, we are looking for the most effective approaches and tools. One of the discovered effective approaches is group training in brainstorming mode. This approach allows participants to discuss ideas, build arguments, and suggest their methods for solving problems, which develops the skill of explaining their decision and commenting on the thought process.
 
-Within the community, we seek the most effective approaches and tools. One of the effective approaches we found are group trainings in brainstorming mode. This approach allows participants to discuss ideas, build arguments, and suggest their methods for solving problems. This develops the skill of explaining one's solution and commenting on the thought process.
+# Schedule ⏰
 
-# Schedule
+We conduct joint training twice a week, with each session lasting about an hour. This regime does not create stress for participants, allows combining preparation with work, and also ensures a stable result in the long term. During the month in classes, we solve 10 Leetcode problems and deeply study 3 system design topics.
 
-We conduct joint training twice a week, with each session lasting about an hour. Such a regimen does not create stress for participants and allows them to balance preparation with work. Over a month, we solve 10 LeetCode problems and study 3 system design topics during the sessions.
+# How to start studying 🚀
 
-# How to Start
+Fill out the <a href="https://forms.gle/zhw3PTBiAPoiHYKv8" target="_blank">form</a>. For coordination, we use Google Calendar and a Telegram channel.
 
-Fill out the <a href="https://forms.gle/zhw3PTBiAPoiHYKv8" target="_blank">the form</a>. For coordination, we use Google Calendar and a Telegram channel.
+## Participation is free, the group is sustained by the enthusiasm of its members!
 
-# This is free, the group is supported by the enthusiasm of its members!
