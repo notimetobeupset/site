@@ -3,6 +3,7 @@ headless: true
 ---
 
 - [**Алгоритмы**]({{< relref "/docs/algo/" >}})
+  - [ Решенные задачи ]({{< relref "/docs/algo/solved_tasks" >}})
   - [ Ссылки на теоретические материалы]({{< relref "/docs/algo/theory" >}})
   - [ Подходы к практике]({{< relref "/docs/algo/practice" >}})
     - [ Групповые тренировки]({{< relref "/docs/algo/practice/group_training" >}})
