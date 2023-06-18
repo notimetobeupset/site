@@ -35,3 +35,13 @@ Video - https://www.youtube.com/watch?v=M4lR_Va97cQ
 1. List two main approaches to geodata indexing algorithms, as well as name four main algorithms.
 1. Why is the traditional SQL database not suitable for geospatial search?
 1. What is the difference between the geohash and quadtree algorithms? In what cases is it better to use the quadtree algorithm?
+
+
+## Nearby Friends (Geospatial Search Service)
+
+Sources: This topic is thoroughly discussed in the text format in the second part of Alex Xu's book "System Design - An insider's guide (volume 2)".
+
+### Control Questions
+1. Who is the publisher and who is the subscriber in the proposed architecture using Redis pub/sub?
+1. In the proposed architecture, how many channels and Redis instances are needed, and how does scaling up/down occur?
+1. What is the location cache used for?
