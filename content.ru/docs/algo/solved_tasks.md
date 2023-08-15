@@ -1,3 +1,70 @@
+## 2023-08-14
+1. https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/
+1. https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/
+
+
+## 2023-08-07
+1. https://leetcode.com/problems/left-and-right-sum-differences/
+1. https://leetcode.com/problems/minimum-space-wasted-from-packaging/
+
+
+## 2023-08-03
+1. https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+1. https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/
+
+
+## 2023-07-31
+1. https://leetcode.com/problems/find-the-town-judge/
+1. https://leetcode.com/problems/prefix-and-suffix-search/
+
+
+## 2023-07-24
+1. https://leetcode.com/problems/score-after-flipping-matrix/
+1. https://leetcode.com/problems/complete-binary-tree-inserter/
+
+
+## 2023-07-20
+1. https://leetcode.com/problems/neither-minimum-nor-maximum/
+1. https://leetcode.com/problems/reducing-dishes/
+
+
+## 2023-07-17
+1. https://leetcode.com/problems/rotating-the-box/
+1. https://leetcode.com/problems/can-i-win/
+
+
+## 2023-07-10
+1. https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
+1. https://leetcode.com/problems/smallest-rotation-with-highest-score/
+
+
+## 2023-07-06
+1. https://leetcode.com/problems/decode-the-slanted-ciphertext/
+1. https://leetcode.com/problems/minimum-moves-to-make-array-complementary/
+
+
+## 2023-07-03
+1. https://leetcode.com/problems/average-of-levels-in-binary-tree/
+1. https://leetcode.com/problems/minimum-window-substring/
+
+
+## 2023-06-26
+1. https://leetcode.com/problems/valid-palindrome-ii/
+1. https://leetcode.com/problems/tree-of-coprimes/
+
+
+## 2023-06-22
+1. https://leetcode.com/problems/regions-cut-by-slashes/
+1. https://leetcode.com/problems/serialize-and-deserialize-bst/
+
+
+## 2023-06-19
+1. https://leetcode.com/problems/sort-array-by-parity-ii/
+1. https://leetcode.com/problems/split-array-largest-sum/
+
+
+
+
 ## 2023-06-12
 1. https://leetcode.com/problems/find-pivot-index/
 1. https://leetcode.com/problems/cracking-the-safe/
@@ -616,25 +683,22 @@
 ## 2022-03-28
 1. https://leetcode.com/problems/find-center-of-star-graph/
 1. https://leetcode.com/problems/redundant-connection-ii/
-1. https://snipper.io/s/-MzG7Z0DJzlFSugWFFug
 
 
 ## 2022-03-24
 1. https://leetcode.com/problems/course-schedule/
 1. https://leetcode.com/problems/minimum-height-trees/
-1. https://codecollab.io/@proj/FireMiddleSunset
 
 
 ## 2022-03-21
 1. https://leetcode.com/problems/cousins-in-binary-tree/
 1. https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
-1. https://codecollab.io/@proj/RingClangKotlin
+
 
 
 ## 2022-03-17
 1. https://leetcode.com/problems/partition-list/
 1. https://leetcode.com/problems/unique-binary-search-trees/
-1. https://codeshare.io/zy9gRk
 
 
 ## 2022-03-14
