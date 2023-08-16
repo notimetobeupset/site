@@ -4,6 +4,10 @@
 
 Источники: Тема подробно рассмотрена в текстовом формате в первой части книги "System Design - An insider's guide (volume 1)" авторства Alex Xu.
 
+## Design Inter Planetary File System 
+
+Источники:  Design and Evaluation of IPFS: A Storage Layer for the Decentralized Web (https://arxiv.org/abs/2208.05877)
+
 ## Design a Chat System 
 
 Источники: Тема подробно рассмотрена в текстовом формате в первой части книги "System Design - An insider's guide (volume 1)" авторства Alex Xu.
