@@ -10,4 +10,7 @@ headless: true
 - [ **Системный дизайн**]({{< relref "/docs/sysdes" >}})
   - [ Будущие темы]({{< relref "/docs/sysdes/upcoming_topics" >}})
   - [ Пройденные темы]({{< relref "/docs/sysdes/completed_topics" >}})
+- [ **Карьера, мотивация**]({{< relref "/docs/career" >}})
+  - [ Книга: Be so good they can't ignore you]({{< relref "/docs/career/book_review_cal_newport" >}})
+  
 <br />
