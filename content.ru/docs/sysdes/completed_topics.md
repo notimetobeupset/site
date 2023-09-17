@@ -99,3 +99,15 @@
 
 ### Контрольные вопросы
 В разработке
+
+
+## Design Inter Planetary File System 
+
+Источники:  
+- Офф. сайт https://docs.ipfs.tech/concepts/
+- Paper - Design and Evaluation of IPFS: A Storage Layer for the Decentralized Web ( [https://arxiv.org/abs/2208.05877](https://arxiv.org/abs/2208.05877))
+- Доклады https://github.com/ipfs/camp/  https://github.com/ipfs/ipfs-camp-2022
+
+Видео запись: https://youtu.be/VZikTwkd_04
+### Контрольные вопросы
+В разработке
