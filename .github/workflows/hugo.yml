@@ -64,7 +64,7 @@ jobs:
       - name: ls
         run: ls -lah .
       - name: Copy static dir
-        run: cp -R static public/
+        run: cp -R static/* public/static/
 
   # Deployment job
   deploy:
