@@ -61,6 +61,10 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
+      - name: ls
+        run: ls -lah .
+      - name: Copy static dir
+        run: cp -R static public/
 
   # Deployment job
   deploy:
