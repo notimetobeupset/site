@@ -1,0 +1,8 @@
+{{ if .IsNamedParams }}
+<a target="_blank" href="{{ .Get "src" }}">
+    <img src="{{ .Get "src" }}" alt="">
+    <span>{{ .Get "title" }}</span>
+</a>
+{{ else }}
+<img src="{{ .Get 0 }}" alt="">
+{{ end }}
