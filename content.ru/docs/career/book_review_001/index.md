@@ -1,5 +1,5 @@
 ---
-title: "Bogus Application"
+title: "Book review: Be so good they can't ignore you by Cal Newport"
 
 resources:
 - src: 'imgs/so_good_book.svg'
